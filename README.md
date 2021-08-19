@@ -1,13 +1,15 @@
-# Instalando ferramentas de desenvolvimento.
+<div align="center">
 
+# 🤩 - Repositório da Geise e do Iano 🥳
 
-## Instalação ferramentas para Sistemas Operacionasi Linux
+</div>
 
-Fala, galera! Hoje vim aqui trazer um tutorialzinho para quem, assim
-como eu, é usuário do Sistema Operacional Linux, mais precisamente
-da distribuição Ubuntu. Dito isso, seguiremos.
+Este repositório serve para armazenar nossos trabalhos de Computação Móvel. Espero que consigamos alimentá-lo de forma contínua, entregando dentro dos prazos e, assim, sermos aprovados na matéria. 
 
-### 1 - Andorid Studio 
+Vamos estudar muito pra poder curtir os carnavais da vida e pagar tudo à vista, no débito!  Beijos.
 
-De acordo com a documentação do ![Android Studio]([https://developer.android.com/studio/install?hl=pt-br]) , seguiremos algumas etapas para que possamos instalar a ferramenta de desenvolvimento. 
+<div align="center">
 
+![Sucessooooo](https://media.giphy.com/media/kgV2WOdibnMYEeMeug/giphy.gif)
+
+</div>

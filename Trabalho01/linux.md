@@ -61,7 +61,7 @@ npm install react-native-cli
 ~~~
 react-native --version
 ~~~
-Deverá exibir a seguinte saída no terminal:****
+Deverá exibir a seguinte saída no terminal:
 ![image](https://user-images.githubusercontent.com/71051791/130004352-e539fd15-12af-45ba-be5b-f81017628738.png)
 
 
